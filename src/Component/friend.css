@@ -1,0 +1,6 @@
+.friend-container{
+    box-sizing: border-box;
+    border: 3px dotted indianred;
+    margin: 20px;
+    padding: 20px;
+}
